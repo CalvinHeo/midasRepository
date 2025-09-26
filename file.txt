@@ -1,0 +1,2 @@
+This is the initial version of myfile.txt
+This is the updatd version with new features.
